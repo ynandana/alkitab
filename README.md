@@ -1,0 +1,2 @@
+# alkitab
+Alkitab text content
