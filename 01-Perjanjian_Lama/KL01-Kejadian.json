@@ -1,65 +1,94 @@
 {
-	"kitab" : "Kejadian",
-	"perikop" : [
+	"kitab": "Kejadian",
+	"perikop": [
 		{
-			"perikop" : "1",
-			"judul" : "Allah menciptakan langit dan bumi serta isinya",
-			"pasal" : [
+			"perikop": "1",
+			"judul": "Allah menciptakan langit dan bumi serta isinya",
+			"pasal": [
 				{
-					"pasal" : "1",
-					"1" : "<p>Pada mulanya Allah menciptakan langit dan bumi. ",
-					"2" : "Bumi belum berbentuk dan kosong; gelap gulita menutupi samudera raya, dan Roh Allah melayang-layang di atas permukaan air. ",
-					"3" : "<p>Berfirmanlah Allah: 'Jadilah terang.' Lalu terang itu jadi. ",
-					"4" : "Allah melihat bahwa terang itu baik, lalu dipisahkan-Nyalah terang itu dari gelap. ",
-					"5" : "Dan Allah menamai terang itu siang, dan gelap itu malam. Jadilah petang dam jadilah pagi, itulah hari pertama. ",
-					"6" : "<p>Berfirmanlah Allah: 'Jadilah cakrawala di tengah segala air untuk memisahkan air dari air.' ",
-					"7" : "Maka Allah menjadikan cakrawala dan Ia memisahkan air yang ada di bawah cakrawala itu dari air yang ada di atasnya. Dan jadilah demikian. ",
-					"8" : "Lalu Allah menamai cakrawala itu langit. Jadilah petang dan jadilah pagi, itulah hari kedua. ",
-					"9" : "<p>Berfirmanlah Allah: 'Hendaklah segala air yang ada di bawah langit berkumpul pada satu tempat, sehingga kelihatan yang kering.' Dan jadilah demikian. ",
-					"10" : "Lalu Allah menamai yang kering itu darat, dan kumpulan air itu dinamai-Nya laut. Allah melihat bahwa semuanya itu baik. ",
-					"11" : "<p>Berfirmanlah Allah: 'Hendaklah tanah menumbuhkan tunas-tunas muda, tumbuh-tumbuhan yang berbiji, segala jenis pohon buah-buahan yang menghasilkan buah yang berbiji, supaya ada tumbuh-tumbuhan di bumi.' Dan jadilah demikian .",
-					"12" : "Tanah itu menumbuhkan tunas-tunas muda, segala jenis tumbuh-tumbuhan yang menghasilkan buah yang berbiji. Allah melihat bahwa semuanya itu baik. ",
-					"13" : "Jadilah petang dan jadilah pagi, itulah hari ketiga. ",
-					"14" : "<p>Berfirmanlah Allah: 'Jadilah benda-benda penerang pada cakrawala untuk memisahkan siang dari malam. Biarkanlah benda-benda penerang itu menjadi tanda yang menunjukkan masa-masa yang tetap dan hari-hari dan tahun-tahun, ",
-					"15" : "dan sebagai penerang pada cakrawala biarlah benda-benda itu menerangi bumi.' Dan jadilah demikian. ",
-					"16" : "Maka Allah menjadikan kedua benda penerang yang besar itu, yakni yang lebih besar untuk menguasai siang dan yang lebih kecil untuk menguasai malam, dan menjadikan juga bintang bintang. ",
-					"17" : "Allah menaruh semuanya itu di cakrawala untuk menerangi bumi, ",
-					"18" : "dan untuk menguasai siang dan malam, dan untuk memisahkan terang dari gelap. Allah melihat bahwa semuanya itu baik. ",
-					"19" : "Jadilah petang dan jadilah pagi, itulah hari keempat. ",
-					"20" : "<p>Berfirmanlah Allah: 'Hendaklah dalam air berkeriapan mahluk yang hidup, dan hendaklah burung beterbangan di atas bumi melintasi cakrawala.' ",
-					"21" : "Maka Allah menciptakan binatang-binatang laut yang besar dan segala jenis mahluk hidup yang bergerak, yang berkeriapan dalam air, dan segala jenis burung yang bersayap. Allah melihat bahwa semuanya itu baik. ",
-					"22" : "Lalu Allah memberkati semuanya itu, firman-Nya: 'Berkembangbiaklah dan betambah banyaklah serta penuhilah air dalam laut, dan hendaklah burung-burung di bumi bertambah banyak.' ",
-					"23" : "Jadilah petang dan jadilah pagi, itulah hari kelima. ",
-					"24" : "<p>Berfirmanlah Allah: 'Hendaklah bumi mengeluarkan segala jenis mahluk yang hidup, ternah dan binatang melata dan segala jenis binatang liar.' Dan jadilah demikian. ",
-					"25" : "Allah menjadikan segala jenis binatang liar dan segala jenis ternak dan segala jenis binata melata di muka bumi. Allah melihat bahwa semuanya itu baik. ",
-					"26" : "<p>Berfirmanlah Allah: 'Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.' ",
-					"27" : "Maka Allah menciptakan manusia itu nenurut gambar-Nya, menurut gambar Allah diciptakan-Nya dia, laki-laki dan perempuan diciptakan-Nya mereka. ",
-					"28" : "Allah memberkati mereka: 'Beranakcuculah dan bertambah banyak; penuhilah bumi dan taklukkanlah itu, berkuasalah atas ikan-ikan di laut dan burung-burung di udara dan atas segala binatang-binatang yang merayap di bumi.' ",
-					"29" : "<p>Berfirmanlah Allah: 'Lihatlah, Aku memberikan kepadamu segala tumbuh-tumbuhan yang berbiji di seluruh bumi dan segala pohon-pohonan yang buahnya berbiji; itulah akan menjadi makananmu. ",
-					"30" : "Tetapi kepada segala binatang-binatang di bumi dan segala burung di udara dan segala yang merayap di bumi, yang bernyawa, Kuberikan segala tumbuh-tumbuhan hijau menjadi makanannya.' Dan jadilah demikian. ",
-					"31" : "Maka Allah melihat segala yang dijadikan-Nya itu, sungguh amat baik. Jadilah petang dan jadilah pagi, itulah hari keenam. "
+					"pasal": "1",
+					"1": "<p>Pada mulanya Allah menciptakan langit dan bumi. ",
+					"2": "Bumi belum berbentuk dan kosong; gelap gulita menutupi samudera raya, dan Roh Allah melayang-layang di atas permukaan air. ",
+					"3": "<p>Berfirmanlah Allah: 'Jadilah terang.' Lalu terang itu jadi. ",
+					"4": "Allah melihat bahwa terang itu baik, lalu dipisahkan-Nyalah terang itu dari gelap. ",
+					"5": "Dan Allah menamai terang itu siang, dan gelap itu malam. Jadilah petang dam jadilah pagi, itulah hari pertama. ",
+					"6": "<p>Berfirmanlah Allah: 'Jadilah cakrawala di tengah segala air untuk memisahkan air dari air.' ",
+					"7": "Maka Allah menjadikan cakrawala dan Ia memisahkan air yang ada di bawah cakrawala itu dari air yang ada di atasnya. Dan jadilah demikian. ",
+					"8": "Lalu Allah menamai cakrawala itu langit. Jadilah petang dan jadilah pagi, itulah hari kedua. ",
+					"9": "<p>Berfirmanlah Allah: 'Hendaklah segala air yang ada di bawah langit berkumpul pada satu tempat, sehingga kelihatan yang kering.' Dan jadilah demikian. ",
+					"10": "Lalu Allah menamai yang kering itu darat, dan kumpulan air itu dinamai-Nya laut. Allah melihat bahwa semuanya itu baik. ",
+					"11": "<p>Berfirmanlah Allah: 'Hendaklah tanah menumbuhkan tunas-tunas muda, tumbuh-tumbuhan yang berbiji, segala jenis pohon buah-buahan yang menghasilkan buah yang berbiji, supaya ada tumbuh-tumbuhan di bumi.' Dan jadilah demikian .",
+					"12": "Tanah itu menumbuhkan tunas-tunas muda, segala jenis tumbuh-tumbuhan yang menghasilkan buah yang berbiji. Allah melihat bahwa semuanya itu baik. ",
+					"13": "Jadilah petang dan jadilah pagi, itulah hari ketiga. ",
+					"14": "<p>Berfirmanlah Allah: 'Jadilah benda-benda penerang pada cakrawala untuk memisahkan siang dari malam. Biarkanlah benda-benda penerang itu menjadi tanda yang menunjukkan masa-masa yang tetap dan hari-hari dan tahun-tahun, ",
+					"15": "dan sebagai penerang pada cakrawala biarlah benda-benda itu menerangi bumi.' Dan jadilah demikian. ",
+					"16": "Maka Allah menjadikan kedua benda penerang yang besar itu, yakni yang lebih besar untuk menguasai siang dan yang lebih kecil untuk menguasai malam, dan menjadikan juga bintang bintang. ",
+					"17": "Allah menaruh semuanya itu di cakrawala untuk menerangi bumi, ",
+					"18": "dan untuk menguasai siang dan malam, dan untuk memisahkan terang dari gelap. Allah melihat bahwa semuanya itu baik. ",
+					"19": "Jadilah petang dan jadilah pagi, itulah hari keempat. ",
+					"20": "<p>Berfirmanlah Allah: 'Hendaklah dalam air berkeriapan mahluk yang hidup, dan hendaklah burung beterbangan di atas bumi melintasi cakrawala.' ",
+					"21": "Maka Allah menciptakan binatang-binatang laut yang besar dan segala jenis mahluk hidup yang bergerak, yang berkeriapan dalam air, dan segala jenis burung yang bersayap. Allah melihat bahwa semuanya itu baik. ",
+					"22": "Lalu Allah memberkati semuanya itu, firman-Nya: 'Berkembangbiaklah dan betambah banyaklah serta penuhilah air dalam laut, dan hendaklah burung-burung di bumi bertambah banyak.' ",
+					"23": "Jadilah petang dan jadilah pagi, itulah hari kelima. ",
+					"24": "<p>Berfirmanlah Allah: 'Hendaklah bumi mengeluarkan segala jenis mahluk yang hidup, ternah dan binatang melata dan segala jenis binatang liar.' Dan jadilah demikian. ",
+					"25": "Allah menjadikan segala jenis binatang liar dan segala jenis ternak dan segala jenis binata melata di muka bumi. Allah melihat bahwa semuanya itu baik. ",
+					"26": "<p>Berfirmanlah Allah: 'Baiklah Kita menjadikan manusia menurut gambar dan rupa Kita, supaya mereka berkuasa atas ikan-ikan di laut dan burung-burung di udara dan atas ternak dan atas seluruh bumi dan atas segala binatang melata yang merayap di bumi.' ",
+					"27": "Maka Allah menciptakan manusia itu nenurut gambar-Nya, menurut gambar Allah diciptakan-Nya dia, laki-laki dan perempuan diciptakan-Nya mereka. ",
+					"28": "Allah memberkati mereka: 'Beranakcuculah dan bertambah banyak; penuhilah bumi dan taklukkanlah itu, berkuasalah atas ikan-ikan di laut dan burung-burung di udara dan atas segala binatang-binatang yang merayap di bumi.' ",
+					"29": "<p>Berfirmanlah Allah: 'Lihatlah, Aku memberikan kepadamu segala tumbuh-tumbuhan yang berbiji di seluruh bumi dan segala pohon-pohonan yang buahnya berbiji; itulah akan menjadi makananmu. ",
+					"30": "Tetapi kepada segala binatang-binatang di bumi dan segala burung di udara dan segala yang merayap di bumi, yang bernyawa, Kuberikan segala tumbuh-tumbuhan hijau menjadi makanannya.' Dan jadilah demikian. ",
+					"31": "Maka Allah melihat segala yang dijadikan-Nya itu, sungguh amat baik. Jadilah petang dan jadilah pagi, itulah hari keenam. "
 				},
 				{
-					"pasal" : "2",
-					"1" : "<p>Demikianlah diselesaikan langit dan bumi dan segala isinya. ",
-					"2" : "Ketika Allah pada hari ketujuh telah menyelesaikan pekerjaan yang dibuat-Nya itu, berhentilah Ia pada hari ketujuh dari segala pekerjaan yang telah dibuat-Nya itu. ",
-					"3" : "Lalu Allah memberkati hari ketujuh itu dan menguduskannya, karena pada hari itulah Ia berhenti dari segala pekerjaan penciptaan yang telah dibuat-Nya itu. ",
-					"4" : "<p>Demikianlah riwayat langit dan bumi pada waktu diciptakan. <p>Ketika TUHAN Allah menjadikan bumi dan langit, -",
-					"5" : "belum ada semak apapun di bumi, belum timbul tumbuh-tumbuhan apapun di padang, sebab TUHAN ALlah belum menurunkan hujan ke bumi, dan belum ada orang untuk mengusahakan tanah itu, ",
-					"6" : "tetapi ada kabut naik ke atas dari bumi dan membasahi seluruh permukaan bumi itu - ",
-					"7" : "ketika itulah TUHAN Allah membentuk manusia itu dari debu tanah dan menhembuskan nafas hidup ke dalam hidungnya; demikianlah manusia itu menjadi mahluk yang hidup. "
+					"pasal": "2",
+					"1": "<p>Demikianlah diselesaikan langit dan bumi dan segala isinya. ",
+					"2": "Ketika Allah pada hari ketujuh telah menyelesaikan pekerjaan yang dibuat-Nya itu, berhentilah Ia pada hari ketujuh dari segala pekerjaan yang telah dibuat-Nya itu. ",
+					"3": "Lalu Allah memberkati hari ketujuh itu dan menguduskannya, karena pada hari itulah Ia berhenti dari segala pekerjaan penciptaan yang telah dibuat-Nya itu. ",
+					"4": "<p>Demikianlah riwayat langit dan bumi pada waktu diciptakan. <p>Ketika TUHAN Allah menjadikan bumi dan langit, -",
+					"5": "belum ada semak apapun di bumi, belum timbul tumbuh-tumbuhan apapun di padang, sebab TUHAN ALlah belum menurunkan hujan ke bumi, dan belum ada orang untuk mengusahakan tanah itu, ",
+					"6": "tetapi ada kabut naik ke atas dari bumi dan membasahi seluruh permukaan bumi itu - ",
+					"7": "ketika itulah TUHAN Allah membentuk manusia itu dari debu tanah dan menhembuskan nafas hidup ke dalam hidungnya; demikianlah manusia itu menjadi mahluk yang hidup. "
 				}
 			]
 		},
 		{
-			"perikop" : "2",
-			"judul" : "Manusia dan taman Eden",
-			"pasal" : [
+			"perikop": "2",
+			"judul": "Manusia dan taman Eden",
+			"pasal": [
 				{
-					"pasal" : "2",
-					"8" : "Selanjutnya TUHAN Allah membuat taman di Eden, di sebelah timur, disitulah ditempatkan-Nya manusia yang dibentuk-Nya itu. ",
-					"9" : "Lalu TUHAN Allah menumbuhkan berbagai-bagai pohon dari bumi, yang menarik dan yang baik untuk dimakan buahnya; dan pohon kehidupan di tengah-tengah taman itu, serta pohon pengetahuan tentang yang baik dan yang jahat. ",
-					"10" : "<p>Ada suatu sungai mengalir dari Eden untuk membasahi taman itu, dan dari situ sungai itu terbagi menjadi empat cabang. "
+					"pasal": "2",
+					"8": "Selanjutnya TUHAN Allah membuat taman di Eden, di sebelah timur, disitulah ditempatkan-Nya manusia yang dibentuk-Nya itu. ",
+					"9": "Lalu TUHAN Allah menumbuhkan berbagai-bagai pohon dari bumi, yang menarik dan yang baik untuk dimakan buahnya; dan pohon kehidupan di tengah-tengah taman itu, serta pohon pengetahuan tentang yang baik dan yang jahat. ",
+					"10": "<p>Ada suatu sungai mengalir dari Eden untuk membasahi taman itu, dan dari situ sungai itu terbagi menjadi empat cabang. ",
+					"11": "Yang pertama, namanya Pison yakni yang mengalir mengelilingi seluruh tanah Hawila, tempat emas ada. ",
+					"12": "Dan emas dari negeri itu baik; di sana ada damar bedolah dan batu krisopras. ",
+					"13": "Nama sungai yang kedua adalah Gihon, yakni yang mengalir mengelilingi seluruh tanah Kusy. ",
+					"14": "Nama sungai yang ketiga ialah Tigris, yakni yang mengalir di sebelah timur Asyur. Dan sungai yang keempat ialah Efrat. ",
+					"15": "<p>TUHAN Allah mengambil manusia itu dan menempatkannya dalam taman Eden untuk mengusahakan dan memelihara taman itu. ",
+					"16": "Lalu TUHAN Allah memberi perintah ini kepada manusia: 'Semua pohon dalam taman ini boleh kaumakan buahnya dengan bebas, ",
+					"17": "tetapi pohon pengetahuan tentang yang baik dan yang jahat itu, janganlah kaumakan buahnya, sebab pada hari engkau memakannya, pastilah engkau mati.' ",
+					"18": "<p>TUHAN Allah berfirman: 'Tidak baik, kalau manusia itu seorang diri saja. Aku akan menjadikan penolong baginya, yang sepadan dengan dia.' ",
+					"19": "Lalu TUHAN Allah membentuk dari tanah segala binatang hutan dan segala burung di udara. Dibawa-Nyalah semuanya kepada manusia itu untuk melihat, bagaimana ia menamainya; dan seperti nama yang diberikan manusia itu kepada tiap-tiap mahluk yang hidup, demikian nanti nama mahluk itu. ",
+					"20": "Manusia itu memberi nama kepada segala ternak, kepada burung-burung di udara dan kepada segala binatang hutan, tetapi baginya sendiri ia tidak menjumpai penolong yang sepadan dengan dia. ",
+					"21": "Lalu TUHAN Allah membuat manusia itu tidur nyenyak; ketika ia tidur, TUHAN Allah mengambil salah satu rusuk dari padanya, lalu menutup tempat itu dengan daging. ",
+					"22": "Dan dari rusuk yang diambil TUHAN Allah dari manusia itu, dibangun-Nyalah seorang perempuan, lalu dibawa-Nya kepada manusia itu. ",
+					"23": "Lalu berkatalah manusia itu: 'Inilah dia, tulang dari tulangku dan daging dari dagingku. Ia akan dinamai perempuan, sebab ia diambil dari laki-laki.' ",
+					"24": "Sebab itu seorang laki-laki akan meninggalkan ayahnya dan ibunya dan bersatu dengan isterinya, sehingga keduanya menjadi satu daging. ",
+					"25": "Mereka keduanya telanjang, manusia dan isterinya itu, tetapi mereka tidak merasa malu. "
+				}
+			]
+		},
+		{
+			"perikop": "3",
+			"judul": "Manusia jatuh ke dalam dosa",
+			"pasal": [
+				{
+					"pasal": "3",
+					"1": "Adapun ular ialah yang paling cerdik dari segala binatang di darat yang dijadikan oleh TUHAN Allah. Ular itu berkata kepada perempuan itu: 'Tentulah Allah berfirman: Semua pohon dalam taman ini jangan kamu makan buahnya, bukan?' ",
+					"2": "Lalu sahut perempuan itu kepada ular itu: 'Buah pohon-pohon dalam taman ini boleh kami makan, ",
+					"3": "tetapi tentang buah pohon yang ada di tengah-tengah taman, Allah berfirman: Jangan kamu makan ataupun raba buah itu, nanti kamu mati.' ",
+					"4": "Tetapi ular itu berkata kepada perempuan itu: 'Sekali-kali kamu tidak akan mati, ",
+					"5": "tetapi Allah mengetahui, bahwa pada kamu memakannya matamu akan terbuka, dan kamu akan menjadi seperti Allah, tahu tentang yang baik dan yang jahat.' "
 				}
 			]
 		}
